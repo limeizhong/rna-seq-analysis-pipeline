@@ -1,0 +1,4 @@
+interface:
+  display_name: "RNA-seq 分析流程"
+  short_description: "从原始双端 reads 到差异与 GO/KEGG 富集"
+  default_prompt: "Use $rna-seq-analysis-pipeline to analyze paired-end RNA-seq data from FASTQ files or a raw count matrix."
